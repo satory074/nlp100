@@ -1,2 +1,2 @@
 #!/bin/zsh
-cat data/hightemp.txt | wc -l
+cat in/hightemp.txt | wc -l
